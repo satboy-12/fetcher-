@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Unauthorized Contact Tracker",
+  "description": "A lightweight tool to verify and report spam or unauthorized phone numbers and email addresses. Uses Gemini to simulate external enrichment and risk analysis.",
+  "requestFramePermissions": []
+}
